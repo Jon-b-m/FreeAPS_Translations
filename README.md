@@ -1,2 +1,2 @@
 # FreeAPS_Translations
-Translations for FreeAPS settings
+FreeAPS settings translations
