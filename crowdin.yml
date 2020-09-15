@@ -1,3 +1,3 @@
 files:
-  - source: en.xliff
-    translation: /New_Translations/%osx_locale%.xliff
+  - source: /Localizable.strings
+    translation: /New_Translations/%osx_locale%/Localizable.strings
