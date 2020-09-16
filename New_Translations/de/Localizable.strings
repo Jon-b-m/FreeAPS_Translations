@@ -20,9 +20,9 @@
 
 "Temporary overrides" = "Vorübergehende Anpassungen";
 
-"Disable MB by enabling temporary override" = "Disable MB by enabling temporary override";
+"Disable MB by enabling temporary override" = "MB durch vorübergehende Anpassungen deaktivieren";
 
-"If the override's target range starts at the given value or more" = "If the override's target range starts at the given value or more";
+"If the override's target range starts at the given value or more" = "Wenn der Zielbereich der vorübergehende Anpassungen beim angegebenen Wert oder mehr beginnt";
 
 "Other Options" = "Zusätzliche Einstellungen";
 
