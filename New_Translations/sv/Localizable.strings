@@ -30,6 +30,8 @@
 
 "Minimum Bolus Size" = "Minsta bolusmängd";
 
+"Last Event" = "Senaste händelse";
+
 "This is the minimum microbolus size in units that will be delivered. Only if the microbolus calculated is equal to or greater than this number of units will a bolus be delivered." = "Detta är den minsta mängd automatisk bolus som kan ges.";
 
 "Disabled" = "Av";
