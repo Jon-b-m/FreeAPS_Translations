@@ -22,7 +22,7 @@
 
 "Disable MB by enabling temporary override" = "MB durch vorübergehende Anpassungen deaktivieren";
 
-"If the override's target range starts at the given value or more" = "Wenn der Zielbereich der vorübergehende Anpassungen beim angegebenen Wert oder mehr beginnt";
+"If the override's target range starts at the given value or more" = "Wenn der Zielbereich der vorübergehenden Anpassung beim angegebenen Wert oder mehr beginnt";
 
 "Other Options" = "Zusätzliche Einstellungen";
 
@@ -30,9 +30,9 @@
 
 "Minimum Bolus Size" = "Minimaler Bolus";
 
-"Last Event" = "Last Event";
+"Last Event" = "Letztes Ereignis";
 
-"This is the minimum microbolus size in units that will be delivered. Only if the microbolus calculated is equal to or greater than this number of units will a bolus be delivered." = "Dies ist die untere Grenze in Ie ab der erst ein Mikrobolus angewendet wird. Nur wenn der berechnete Mikrobolus gleich groß oder größer ist, werden die Bolus Ie verabreicht.";
+"This is the minimum microbolus size in units that will be delivered. Only if the microbolus calculated is equal to or greater than this number of units will a bolus be delivered." = "Dies ist die untere Grenze in IE ab der erst ein Mikrobolus angewendet wird. Nur wenn der berechnete Mikrobolus gleich groß oder größer ist, werden die Bolus IE verabreicht.";
 
 "Disabled" = "Deaktiviert";
 
