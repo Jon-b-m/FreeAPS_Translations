@@ -16,11 +16,11 @@
 
 "Max basal limit" = "Maximales Basallimit";
 
-"Limits the maximum basal rate to a multiple of the scheduled basal rate in loop. The value cannot exceed your maximum basal rate setting.\nThis setting is ignored if microboluses are disabled." = "Begrenzt die Basalrate auf ein Vielfaches der geplanten Basalrate in Loop. Der Wert kann dabei die maximale Basalrate nicht überschreiten.\nDie Einstellung wird bei deaktiviertem Mikrobolus ignoriert.";
+"Limits the maximum basal rate to a multiple of the scheduled basal rate in loop. The value cannot exceed your maximum basal rate setting.\nThis setting is ignored if microboluses are disabled." = "Begrenzt die Basalrate auf ein Vielfaches der geplanten Basalrate in Loop. Der Wert kann dabei die maximale Basalrate nicht überschreiten.\nDiese Einstellung wird bei deaktiviertem Mikrobolus ignoriert.";
 
 "Temporary overrides" = "Vorübergehende Anpassungen";
 
-"Disable MB by enabling temporary override" = "MB durch vorübergehende Anpassungen deaktivieren";
+"Disable MB by enabling temporary override" = "Mikrobolus durch vorübergehende Anpassungen deaktivieren";
 
 "If the override's target range starts at the given value or more" = "Wenn der Zielbereich der vorübergehenden Anpassung beim angegebenen Wert oder mehr beginnt";
 
@@ -60,14 +60,14 @@
 
 "Safety" = "Sicherheit";
 
-"Allow MBs when the sensor value is invalid" = "Erlaube MB trotz ungültiger Sensordaten";
+"Allow MBs when the sensor value is invalid" = "Erlaube Mikroboli trotz ungültiger Sensordaten";
 
-"Sometimes you may see an exclamation mark next to the glucose value. In such cases microboluses will not be applied. Turn this setting on if you want to ignore warnings." = "Manchmal sieht man neben dem Glukosewert ein Ausrufezeichen. In solchen Fällen wird kein Mikrobolus verabreicht. Aktiviere diese Einstellung, wenn Warnungen ignoriert werden sollen.";
+"Sometimes you may see an exclamation mark next to the glucose value. In such cases microboluses will not be applied. Turn this setting on if you want to ignore warnings." = "Manchmal wird neben dem Glukosewert ein Ausrufezeichen angezeigt. In solchen Fällen wird kein Mikrobolus verabreicht. Aktiviere diese Einstellung, wenn Warnungen ignoriert werden sollen.";
 
 "Other FreeAPS settings" = "Zusätzliche FreeAPS Einstellungen";
 
 "Show required carbs on the app badge" = "Benötigte Kohlenhydrate als Kennzeichen an der App anzeigen";
 
-"Allow MBs when glucose is below target range" = "Erlaube MB bei Glukose unterhalb des Zielbereichs";
+"Allow MBs when glucose is below target range" = "Erlaube Mikroboli bei Glukose unterhalb des Zielbereichs";
 
 "Retrospective Correction interval" = "Nachträgliches Korrekturintervall";
