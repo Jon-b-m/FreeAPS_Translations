@@ -30,6 +30,8 @@
 
 "Minimum Bolus Size" = "Минимальный размер болюса";
 
+"Last Event" = "Last Event";
+
 "This is the minimum microbolus size in units that will be delivered. Only if the microbolus calculated is equal to or greater than this number of units will a bolus be delivered." = "Минимальный размер вводимого микроболюса (в единицах). Микроболюс будет введен только в том случае, если его рассчитанная величина будет равна или больше указанного значения минимального болюса.";
 
 "Disabled" = "Отключены";
