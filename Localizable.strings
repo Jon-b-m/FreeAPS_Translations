@@ -31,6 +31,8 @@
 
 "Minimum Bolus Size" = "Minimum Bolus Size";
 
+"Last Event" = "Last Event";
+
 "This is the minimum microbolus size in units that will be delivered. Only if the microbolus calculated is equal to or greater than this number of units will a bolus be delivered." = "This is the minimum microbolus size in units that will be delivered. Only if the microbolus calculated is equal to or greater than this number of units will a bolus be delivered.";
 
 "Disabled" = "Disabled";
