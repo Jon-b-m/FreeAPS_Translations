@@ -1,4 +1,3 @@
-
 Do you want to contribute making FreeAPS translated to your language? Great! 
 
 Then just
