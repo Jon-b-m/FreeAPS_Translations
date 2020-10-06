@@ -4,8 +4,8 @@ Do you want to contribute making FreeAPS translated to your language? Great!
 Then just
 
 1. click the invite-link below to come to my Crowdin project "FreeAPS settings".
-2. Login or create an account (it's free),
-3. choose your language (click on the flag) and click "Translate All" to begin the translation.
+2. Login or create an account (it's free).
+3. Choose your language (click on the flag) and click "Translate All" to begin the translation.
 
 https://crowdin.com/project/freeaps-settings/invite?d=6545n4j6l6g5k55383f3c37353
 
