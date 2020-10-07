@@ -10,11 +10,11 @@
 
 "Partial Bolus Application" = "Andel av anbefalt bolus";
 
-"What part of the recommended bolus will be applied automatically." = "Hvor stor andel av anbefalt bolus skal gis automatisk.";
+"What part of the recommended bolus will be applied automatically." = "Hvor stor andel av anbefalt bolus som skal gis automatisk.";
 
 "Basal Rate Multiplier" = "Basalrate multiplikator";
 
-"Max basal limit" = "Maks basal grense";
+"Max basal limit" = "Maks basalgrense";
 
 "Limits the maximum basal rate to a multiple of the scheduled basal rate in loop. The value cannot exceed your maximum basal rate setting.\nThis setting is ignored if microboluses are disabled." = "Bestemmer andel maksimal basal som vil ble brukt til en multiplum av den normale basaldosen. Verdien kan ikke overstige din maksimale basaldose\nDenne innstillingen ignoreres hvis mikroboluser er deaktivert.";
 
