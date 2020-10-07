@@ -16,7 +16,7 @@
 
 "Max basal limit" = "Maks basalgrense";
 
-"Limits the maximum basal rate to a multiple of the scheduled basal rate in loop. The value cannot exceed your maximum basal rate setting.\nThis setting is ignored if microboluses are disabled." = "Begrenser maksimal basalrate til et multiplum av den normale basalraten. Verdien kan ikke overstige den maksimale programmerte basalraten\nDenne innstillingen ignoreres hvis mikroboluser er deaktivert.";
+"Limits the maximum basal rate to a multiple of the scheduled basal rate in loop. The value cannot exceed your maximum basal rate setting.\nThis setting is ignored if microboluses are disabled." = "Begrenser maksimal midlertidig basalrate til et multiplum av programmert basalrate. Verdien kan ikke overstige innstillingen for maksimal basalgrense\nDenne innstillingen ignoreres hvis mikroboluser er deaktivert.";
 
 "Temporary overrides" = "Midlertidig overstyring";
 
@@ -62,9 +62,9 @@
 
 "Allow MBs when the sensor value is invalid" = "Tillat MB når sensor gir ugyldig verdi";
 
-"Sometimes you may see an exclamation mark next to the glucose value. In such cases microboluses will not be applied. Turn this setting on if you want to ignore warnings." = "Et utropstegn ved glukoseverdien markerer at kilden til sensordata vurderer målingen som usikker eller ugyldig. Det blir da ikke levert mikroboluser. Slå på denne innstillingen for å overstyre denne sikkerhetsmekanismen.";
+"Sometimes you may see an exclamation mark next to the glucose value. In such cases microboluses will not be applied. Turn this setting on if you want to ignore warnings." = "Et utropstegn ved glukoseverdien markerer at kilden til sensordata vurderer målingen som usikker eller ugyldig. Det blir da ikke levert mikroboluser. Slå på innstillingen for å overstyre denne sikkerhetsmekanismen.";
 
-"Other FreeAPS settings" = "Andre FreeAPS innstillinger";
+"Other FreeAPS settings" = "Andre innstillinger for FreeAPS";
 
 "Show required carbs on the app badge" = "Vis anbefalte karbo på app-ikonet";
 
