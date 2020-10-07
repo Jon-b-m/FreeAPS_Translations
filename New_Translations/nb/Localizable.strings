@@ -2,9 +2,9 @@
 
 "Microboluses" = "Mikroboluser";
 
-"Caution! Microboluses have potential to reduce the safety effects of other mitigations like max temp basal rate. Please be careful!\nThe actual size of a microbolus is always limited to the partial application of recommended bolus." = "Caution! Microboluses have potential to reduce the safety effects of other mitigations like max temp basal rate. Please be careful!\nThe actual size of a microbolus is always limited to the partial application of recommended bolus.";
+"Caution! Microboluses have potential to reduce the safety effects of other mitigations like max temp basal rate. Please be careful!\nThe actual size of a microbolus is always limited to the partial application of recommended bolus." = "Forsiktig! Mikrobolus kan redusere sikkerhetseffekten til andre begrensninger, som maksimal temp basal rate. Vær forsiktig!\nDen faktiske størrelsen på en mikrobolus er alltid begrenset til den innstillingen som er satt for anbefalt microbolus.";
 
-"Enable With Carbs" = "Enable With Carbs";
+"Enable With Carbs" = "Tillatt med karbo";
 
 "Enable Without Carbs" = "Enable Without Carbs";
 
@@ -18,33 +18,33 @@
 
 "Limits the maximum basal rate to a multiple of the scheduled basal rate in loop. The value cannot exceed your maximum basal rate setting.\nThis setting is ignored if microboluses are disabled." = "Limits the maximum basal rate to a multiple of the scheduled basal rate in loop. The value cannot exceed your maximum basal rate setting.\nThis setting is ignored if microboluses are disabled.";
 
-"Temporary overrides" = "Temporary overrides";
+"Temporary overrides" = "Midlertidig overstyring";
 
 "Disable MB by enabling temporary override" = "Disable MB by enabling temporary override";
 
 "If the override's target range starts at the given value or more" = "If the override's target range starts at the given value or more";
 
-"Other Options" = "Other Options";
+"Other Options" = "Andre innstillinger";
 
 "Open bolus screen after carbs on watch" = "Open bolus screen after carbs on watch";
 
 "Minimum Bolus Size" = "Minimum Bolus Size";
 
-"Last Event" = "Last Event";
+"Last Event" = "Siste hendelse";
 
 "This is the minimum microbolus size in units that will be delivered. Only if the microbolus calculated is equal to or greater than this number of units will a bolus be delivered." = "This is the minimum microbolus size in units that will be delivered. Only if the microbolus calculated is equal to or greater than this number of units will a bolus be delivered.";
 
-"Disabled" = "Disabled";
+"Disabled" = "Deaktivert";
 
-"Always" = "Always";
+"Always" = "Alltid";
 
-"With Carbs" = "With Carbs";
+"With Carbs" = "Med karbo";
 
-"Without Carbs" = "Without Carbs";
+"Without Carbs" = "Uten karbo";
 
-"Export Settings" = "Export Settings";
+"Export Settings" = "Eksportere innstillingene";
 
-"Import Settings" = "Import Settings";
+"Import Settings" = "Importer innstillinger";
 
 "Manual Temp Basal" = "Manual Temp Basal";
 
@@ -68,6 +68,6 @@
 
 "Show required carbs on the app badge" = "Show required carbs on the app badge";
 
-"Allow MBs when glucose is below target range" = "Allow MBs when glucose is below target range";
+"Allow MBs when glucose is below target range" = "Tillat MB når glukosen er under målområdet";
 
-"Retrospective Correction interval" = "Retrospective Correction interval";
+"Retrospective Correction interval" = "Retrospektiv korreksjons intervall";
