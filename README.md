@@ -1,4 +1,4 @@
-Do you want to contribute making FreeAPS translated to your language? Great! 
+Do you want to contribute making FreeAPS translated into your language? Great! 
 
 Then just
 
