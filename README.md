@@ -1,6 +1,4 @@
-Do you want to contribute making FreeAPS translated into your language? Great! 
-
-Then please follow these instructions:
+Do you want to contribute making FreeAPS translated into your language? Then please follow these instructions:
 
     1. click the invite-link below to come to my Crowdin project "FreeAPS settings".
     2. Login or create an account (it's free).
