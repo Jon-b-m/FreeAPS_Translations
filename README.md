@@ -7,7 +7,7 @@ Do you want to contribute making FreeAPS translated into your language? Then ple
 
 https://crowdin.com/project/freeaps-settings/invite?d=6545n4j6l6g5k55383f3c37353
 
-Thank you for you help!
+Thank you for your help!
 
 In FreeAPS there are 36 unique strings, existing in the main settings and in the microbuluses settings. This project manages only the localization unique to FreeAPS, not the other Loop translations.
 
