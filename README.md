@@ -5,7 +5,7 @@ Do you want to contribute making FreeAPS translated into your language? Then ple
     3. Choose your language (click on the flag) and click "Translate All" to begin
        the online translation.
 
-https://crowdin.com/project/freeaps-settings/invite?d=6545n4j6l6g5k55383f3c37353
+https://crowdin.com/project/freeaps-settings
 
 Thank you for your help!
 
