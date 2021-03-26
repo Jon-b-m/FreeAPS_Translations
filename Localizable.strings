@@ -1,4 +1,3 @@
-
 // FreeAPS strings
 
 "Microboluses" = "Microboluses";
@@ -16,6 +15,7 @@
 "Basal Rate Multiplier" = "Basal Rate Multiplier";
 
 "Max basal limit" = "Max basal limit";
+/* Limits the maximum basal rate to a multiple of the scheduled basal rate in loop. The value cannot exceed your maximum basal rate setting. This setting is ignored if microboluses are disabled. */
 
 "Limits the maximum basal rate to a multiple of the scheduled basal rate in loop. The value cannot exceed your maximum basal rate setting.\nThis setting is ignored if microboluses are disabled." = "Limits the maximum basal rate to a multiple of the scheduled basal rate in loop. The value cannot exceed your maximum basal rate setting.\nThis setting is ignored if microboluses are disabled.";
 
@@ -72,4 +72,3 @@
 "Allow MBs when glucose is below target range" = "Allow MBs when glucose is below target range";
 
 "Retrospective Correction interval" = "Retrospective Correction interval";
-
