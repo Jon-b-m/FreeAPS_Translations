@@ -1,12 +1,12 @@
 // FreeAPS strings
 
-"Microboluses" = "Micros-bolus";
+"Microboluses" = "Microbolus";
 
-"Caution! Microboluses have potential to reduce the safety effects of other mitigations like max temp basal rate. Please be careful!\nThe actual size of a microbolus is always limited to the partial application of recommended bolus." = "Caution! Microboluses have potential to reduce the safety effects of other mitigations like max temp basal rate. Please be careful!\nThe actual size of a microbolus is always limited to the partial application of recommended bolus.";
+"Caution! Microboluses have potential to reduce the safety effects of other mitigations like max temp basal rate. Please be careful!\nThe actual size of a microbolus is always limited to the partial application of recommended bolus." = "Attention ! Les microbolus ont le potentiel de réduire les effets de sécurité d'autres paramètres comme le taux de basal temporaire maximale. Attention !\nLa taille réelle d'un microbolus est toujours limitée à l'application partielle du bolus recommandé.";
 
-"Enable With Carbs" = "Enable With Carbs";
+"Enable With Carbs" = "Activer avec glucides";
 
-"Enable Without Carbs" = "Enable Without Carbs";
+"Enable Without Carbs" = "Activer sans glucides";
 
 "Partial Bolus Application" = "Partial Bolus Application";
 
@@ -14,7 +14,7 @@
 
 "Basal Rate Multiplier" = "Basal Rate Multiplier";
 
-"Max basal limit" = "Max basal limit";
+"Max basal limit" = "Limite maximale de basal";
 
 "Limits the maximum basal rate to a multiple of the scheduled basal rate in loop. The value cannot exceed your maximum basal rate setting. This setting is ignored if microboluses are disabled." = "Limits the maximum basal rate to a multiple of the scheduled basal rate in loop. The value cannot exceed your maximum basal rate setting. This setting is ignored if microboluses are disabled.";
 
@@ -24,41 +24,41 @@
 
 "If the override's target range starts at the given value or more" = "If the override's target range starts at the given value or more";
 
-"Other Options" = "Other Options";
+"Other Options" = "Autres options";
 
 "Open bolus screen after carbs on watch" = "Open bolus screen after carbs on watch";
 
-"Minimum Bolus Size" = "Minimum Bolus Size";
+"Minimum Bolus Size" = "Taille minimale du Bolus";
 
-"Last Event" = "Last Event";
+"Last Event" = "Dernier événement";
 
 "This is the minimum microbolus size in units that will be delivered. Only if the microbolus calculated is equal to or greater than this number of units will a bolus be delivered." = "This is the minimum microbolus size in units that will be delivered. Only if the microbolus calculated is equal to or greater than this number of units will a bolus be delivered.";
 
 "Disabled" = "Disabled";
 
-"Always" = "Always";
+"Always" = "Toujours";
 
-"With Carbs" = "With Carbs";
+"With Carbs" = "Avec Glucides";
 
-"Without Carbs" = "Without Carbs";
+"Without Carbs" = "Sans glucides";
 
-"Export Settings" = "Export Settings";
+"Export Settings" = "Exporter les Paramètres";
 
-"Import Settings" = "Import Settings";
+"Import Settings" = "Importer les Paramètres";
 
 "Manual Temp Basal" = "Manual Temp Basal";
 
-"Basal rate (U/h)" = "Basal rate (U/h)";
+"Basal rate (U/h)" = "Débit Basal (U/h)";
 
-"Duration" = "Duration";
+"Duration" = "Durée";
 
 "%.0f h %02.0f min" = "%.0f h %02.0f min";
 
-"Cancel Temp Basal" = "Cancel Temp Basal";
+"Cancel Temp Basal" = "Annuler le Basal Temporaire";
 
-"Set" = "Set";
+"Set" = "Définir";
 
-"Safety" = "Safety";
+"Safety" = "Sécurité";
 
 "Allow MBs when the sensor value is invalid" = "Allow MBs when the sensor value is invalid";
 
